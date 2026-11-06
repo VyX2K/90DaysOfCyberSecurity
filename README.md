@@ -1,4 +1,4 @@
-# 90-Day Cybersecurity Study Plan - Day 13
+# 90-Day Cybersecurity Study Plan - Day 14
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -11,8 +11,8 @@
 - [Goals and Audience](#-goals-and-audience)
 - [Start Here](#-start-here)
 - Daily Breakdown
-  - [Day 1-7: Network+](#day-1-7-network) - Day 13
-  - [Day 8-14: Security+](#day-8-14-security)
+  - [Day 1-7: Network+](#day-1-7-network) - Day 14
+  - [Day 8-14: Security+](#day-8-14-security) - Day 15
   - [Day 15-28: Linux](#day-15-28-linux)
   - [Day 29-42: Python](#day-29-42-python)
   - [Day 43-56: Traffic Analysis](#day-43-56-traffic-analysis)
