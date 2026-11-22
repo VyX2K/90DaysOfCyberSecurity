@@ -1,4 +1,4 @@
-# 90-Day Cybersecurity Study Plan - Day 23
+# 90-Day Cybersecurity Study Plan - Day 24
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -13,7 +13,7 @@
 - Daily Breakdown
   - [Day 1-7: Network+](#day-1-7-network) - Day 15 - NOT DONE
   - [Day 8-14: Security+](#day-8-14-security) - Day 23
-  - [Day 15-28: Linux](#day-15-28-linux) - Day 1
+  - [Day 15-28: Linux](#day-15-28-linux) - Day 2
   - [Day 29-42: Python](#day-29-42-python)
   - [Day 43-56: Traffic Analysis](#day-43-56-traffic-analysis)
   - [Day 57-63: Git](#day-57-63-git)
